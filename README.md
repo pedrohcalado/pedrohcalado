@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro! 👋
 
-I'm a Front-End Developer studying at [Trybe](https://www.betrybe.com/) in order to become a Full-Stack Developer by April 2021.
+I'm a Software Developer studying at [Trybe](https://www.betrybe.com/) in order to become a Full-Stack Developer by April 2021.
 
 Some of the skills I've learned so far:
 
