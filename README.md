@@ -2,7 +2,7 @@
 
 👨‍💻  Software Assistant [@Localiza](https://www.localiza.com/brasil/pt-br) <br/>
 🤓     Software Development Student [@Trybe](https://www.betrybe.com/) <br/>
-🏗️     Civil Engineering Graduate [@unesp](https://www.feis.unesp.br/) and [@howardU](https://home.howard.edu/)<br/>
+🏗️     Civil Engineering Graduate [@Unesp](https://www.feis.unesp.br/) and [@HowardU](https://home.howard.edu/)<br/>
 🇧🇷     Living in Belo Horizonte, Brazil
 
 ## I'm currently learning 🌱
