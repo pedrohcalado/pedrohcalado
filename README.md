@@ -8,6 +8,7 @@
 ## I'm currently learning 🌱
 - C#
 - .NET
+- Domain Driven Design
 
 ## Technologies I've learned so far 🚀
 - Front-end: HTML, CSS, JavaScript, React, Redux
