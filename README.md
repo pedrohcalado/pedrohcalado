@@ -13,6 +13,9 @@
 ## Technologies I've learned so far 🚀
 - Front-end: HTML, CSS, JavaScript, React, Redux
 - Back-end: Node.js, Express, MongoDB, SQL, JWT, Socket.io, Sequelize
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcalado&layout=compact&theme=algolia" />
+</p>
 
 ## Reach me 📫
 - [LinkedIn](https://www.linkedin.com/in/pedrohcalado/)
