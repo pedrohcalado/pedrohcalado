@@ -10,12 +10,9 @@
 - .NET
 - Domain Driven Design
 
-## Technologies I've learned so far 🚀
+## Technologies I've worked with and keep studying 🚀
 - Front-end: HTML, CSS, JavaScript, React, Redux
-- Back-end: Node.js, Express, MongoDB, SQL, JWT, Socket.io, Sequelize
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohcalado&layout=compact&theme=algolia" />
-</p>
+- Back-end: Node.js, Express, MongoDB, Python, SQL, JWT, Socket.io, Sequelize
 
 ## Reach me 📫
 - [LinkedIn](https://www.linkedin.com/in/pedrohcalado/)
