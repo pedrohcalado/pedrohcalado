@@ -1,7 +1,7 @@
 ## Hi, I'm Pedro! 👋
 
-👨‍💻  Software Assistant [@Localiza](https://www.localiza.com/brasil/pt-br) <br/>
-🤓     Software Development Student [@Trybe](https://www.betrybe.com/) <br/>
+👨‍💻  Software Developer [@Localiza](https://www.localiza.com/brasil/pt-br) <br/>
+🤓     Former Software Development Student [@Trybe](https://www.betrybe.com/) <br/>
 🏗️     Civil Engineering Graduate [@Unesp](https://www.feis.unesp.br/) and [@HowardU](https://home.howard.edu/)<br/>
 🇧🇷     Living in Belo Horizonte, Brazil
 
