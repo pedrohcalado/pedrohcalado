@@ -1,6 +1,6 @@
 ## Hi, I'm Pedro! 👋
 
-👨‍💻  Software Developer [@Localiza](https://www.localiza.com/brasil/pt-br) <br/>
+👨‍💻  Software Developer [@Vaivoa](https://vaivoa.com/) <br/>
 🤓     Former Software Development Student [@Trybe](https://www.betrybe.com/) <br/>
 🏗️     Civil Engineering Graduate [@Unesp](https://www.feis.unesp.br/) and [@HowardU](https://home.howard.edu/)<br/>
 🇧🇷     Living in Belo Horizonte, Brazil
