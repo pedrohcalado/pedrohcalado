@@ -6,13 +6,12 @@
 🇧🇷     Living in Belo Horizonte, Brazil
 
 ## I'm currently learning 🌱
-- C#
-- .NET
-- Domain Driven Design
+- Swift
+- SwiftUI
 
 ## Technologies I've worked with and keep studying 🚀
 - Front-end: HTML, CSS, JavaScript, React, Redux
-- Back-end: Node.js, Express, MongoDB, Python, SQL, JWT, Socket.io, Sequelize
+- Back-end: C#, .NET, SQLServer, Node.js, Express, MongoDB
 
 ## Reach me 📫
 - [LinkedIn](https://www.linkedin.com/in/pedrohcalado/)
