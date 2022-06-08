@@ -1,9 +1,9 @@
 ## Hi, I'm Pedro! 👋
 
-👨‍💻  iOS Developer [@Vaivoa](https://vaivoa.com/) <br/>
+👨‍💻     iOS Developer [@modalmais](https://www.modalmais.com.br/) <br/>
 🤓     Former Software Development Student [@Trybe](https://www.betrybe.com/) <br/>
 🏗️     Civil Engineering Graduate [@Unesp](https://www.feis.unesp.br/) and [@HowardU](https://home.howard.edu/)<br/>
-🇧🇷     Living in Ilha Solteira - SP, Brazil
+🇧🇷     Living in Belo Horizonte - MG, Brazil
 
 ## I'm currently learning 🌱
 - iOS Architecture best practices
