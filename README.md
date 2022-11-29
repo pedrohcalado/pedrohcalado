@@ -1,13 +1,13 @@
 ## Hi, I'm Pedro! 👋
 
-👨‍💻     iOS Developer [@modalmais](https://www.modalmais.com.br/) <br/>
+👨‍💻     iOS Developer
 🤓     Former Software Development Student [@Trybe](https://www.betrybe.com/) <br/>
 🏗️     Civil Engineering Graduate [@Unesp](https://www.feis.unesp.br/) and [@HowardU](https://home.howard.edu/)<br/>
-🇧🇷     Living in Belo Horizonte - MG, Brazil
+🇧🇷     Living in São José dos Campos - SP, Brazil
 
 ## I'm currently learning 🌱
 - iOS Architecture best practices
-- SwiftUI 
+- SwiftUI
 
 ## Technologies I've worked with and keep studying 🚀
 - Mobile: iOS
