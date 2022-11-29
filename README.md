@@ -1,6 +1,6 @@
 ## Hi, I'm Pedro! 👋
 
-👨‍💻     iOS Developer
+👨‍💻     iOS Developer <br/>
 🤓     Former Software Development Student [@Trybe](https://www.betrybe.com/) <br/>
 🏗️     Civil Engineering Graduate [@Unesp](https://www.feis.unesp.br/) and [@HowardU](https://home.howard.edu/)<br/>
 🇧🇷     Living in São José dos Campos - SP, Brazil
