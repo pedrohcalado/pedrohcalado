@@ -7,10 +7,9 @@
 
 ## I'm currently learning 🌱
 - iOS Architecture best practices
-- SwiftUI
 
 ## Technologies I've worked with and keep studying 🚀
-- Mobile: iOS
+- Mobile iOS: UIKit, SwiftUI, RxSwift, Combine, XCTest, TDD, MVVM, MVVM-C, MVC, CoreData, Storyboard, XIB, View Code, Auto Layout, Modularization
 - Front-end: HTML, CSS, JavaScript, React, Redux
 - Back-end: C#, .NET, SQLServer, Node.js, Express, MongoDB
 
